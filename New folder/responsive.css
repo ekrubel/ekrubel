@@ -1,0 +1,8 @@
+@media all and (max-width: 980px) {
+	.service-content .row .col-1-4,
+	.service-content .row .col-2-4,
+	.service-content .row .col-3-4,
+	.service-content .row .col-4-4 {
+		width: 100% ;
+	}
+}
